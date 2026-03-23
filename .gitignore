@@ -5,15 +5,16 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.pt
 # folders
 tasks12/
-temp/
+temp_backup/
 unsloth_compiled_cache/
 llama3-abcd-lora-final/
 llama3-abcd-lora/
 evaluation_results.json
 val_predictions.json
+Clpsych2026_Guidelines.pdf
 
 # Distribution / packaging
 .Python
